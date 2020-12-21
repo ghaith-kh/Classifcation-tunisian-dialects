@@ -1,4 +1,4 @@
-# Classifcation-tunisian-dialects
+# Classification-tunisian-dialects
 
 Tunisian text dialects presents a very complex language to understand by forgein citezness outside Tunisia. Therefore i aimed in this project to implement a deep learning model to automatically predict classify the postive from the toxic texts.
 To do so, I made the following steps:
